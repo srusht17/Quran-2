@@ -1,0 +1,15 @@
+img {
+    width: 100%;
+}
+
+body{
+    padding-top: 70px;
+    background-color:rgb(143,188,143) ;
+}
+
+.navbar {
+    background-color:rgb(143,188,143) ;
+}
+.navbar-brand{
+    font-size: 1.60rem;
+}
